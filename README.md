@@ -36,7 +36,7 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 ![IPL Dashboard](./ipl-dashboard-screenshot.png)
 
 🎥 📂Walkthrough Video  
-[▶️ Click to Watch](./ipl-dashboard-demo.mp4)
+[▶️ Click to Watch](https://drive.google.com/file/d/1CqXvdumzWv1DHYEJwVCVwzR3PsrWBCQf/view?usp=sharing))
 
 ## 📂Files Included
 
