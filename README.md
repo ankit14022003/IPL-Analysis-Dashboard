@@ -1,4 +1,4 @@
-##🏏 IPL T20 Analysis Dashboard (2008–2025)
+# 🏏 IPL T20 Analysis Dashboard (2008–2025)
 
 This Power BI dashboard provides a comprehensive statistical analysis of the Indian Premier League (IPL) from its inaugural season in 2008 up to 2025. It focuses on season-wise team performance, player achievements, match metrics, and batting highlights in an interactive and visual-first format.
 
