@@ -62,7 +62,9 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 👨‍💻 Author
 
 👤 Ankit Chaudhary
+
 📧 ankitchaudhary14022003@gmail.com 
+
 🎓 Computer Engineering Graduate | Data & Business Analytics Enthusiast
 
 📄 License
