@@ -1,8 +1,8 @@
-🏏 IPL T20 Analysis Dashboard (2008–2025)
+##🏏 IPL T20 Analysis Dashboard (2008–2025)
 
 This Power BI dashboard provides a comprehensive statistical analysis of the Indian Premier League (IPL) from its inaugural season in 2008 up to 2025. It focuses on season-wise team performance, player achievements, match metrics, and batting highlights in an interactive and visual-first format.
 
-📌 Project Objectives
+##📌 Project Objectives
 
 • Analyze IPL statistics across all seasons from 2008 to 2025  
 • Visualize top performers: Orange Cap, Purple Cap, 4s, and 6s  
@@ -10,7 +10,7 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 • Explore team-wise standings with win/loss records  
 • Deliver an intuitive and interactive user experience  
 
-✨ Dashboard Features
+##✨ Dashboard Features
 
 • Season-wise filters (2008–2025)  
 • Team standings: matches, wins, losses, ties, NR, points  
@@ -19,7 +19,7 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 • Orange Cap & Purple Cap cards  
 • Clean IPL-themed design with branding and logos  
 
-🚀 IPL 2025 Season Highlights
+##🚀 IPL 2025 Season Highlights
 
 • Champions: Royal Challengers Bangalore  
 • Runner-Up: Punjab Kings  
@@ -30,7 +30,7 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 • Matches: 74 | Teams: 10 | Venues: 14  
 • 6s: 1296 | 4s: 2251 | Centuries: 9 | Half-Centuries: 143  
 
-🖼️ Dashboard Preview
+##🖼️ Dashboard Preview
 
 📸 Screenshot  
 ![IPL Dashboard](./ipl-dashboard-screenshot.png)
@@ -38,7 +38,7 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 🎥 Walkthrough Video  
 [▶️ Click to Watch](./ipl-dashboard-demo.mp4)
 
-📂 Files Included
+##📂 Files Included
 
 • `IPL_Analysis_2008_2025.pbit` – Power BI dashboard template  
 • `ipl-dashboard-screenshot.png` – Dashboard image preview  
@@ -46,31 +46,31 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 • `IPL_Analysis_2008_2025.pdf` – Static PDF of the dashboard  
 • `IPL_Data.zip ` – Dataset used in the dashboard  
 
-🛠️ How to Use
+##🛠️ How to Use
 
 1. Clone or download the repository  
 2. Open `IPL_Analysis_2008_2025.pbit` in Power BI Desktop  
 3. Load the dataset when prompted or connect your own  
 4. Use slicers and visuals to explore IPL stats from 2008–2025  
 
-🧰 Tools & Technologies
+##🧰 Tools & Technologies
 
 • Power BI Desktop – visualization  
 • Excel / CSV – data preparation  
 • Power Query – data transformation (ETL)  
 
-👨‍💻 Author
+##👨‍💻 Author
 
 👤 Ankit Chaudhary                                                                                                                                                                                                   
 📧 ankitchaudhary14022003@gmail.com                                                                                                                                                                                  
 🎓 Computer Engineering Graduate | Data & Business Analytics Enthusiast
 
-📄 License
+##📄 License
 
 This project is licensed under the MIT License.  
 Feel free to use, modify, and share with proper credit.
 
-💬 Quote
+##💬 Quote
 
 "IPL isn’t just a tournament — it’s 17 years of unforgettable data.  
 This dashboard brings every stat and story to life."
