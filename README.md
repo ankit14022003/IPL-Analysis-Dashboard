@@ -1,17 +1,6 @@
 # 🏏 IPL T20 Analysis Dashboard (2008–2025)
 
 This Power BI dashboard provides a comprehensive statistical analysis of the Indian Premier League (IPL) from its inaugural season in 2008 up to 2025. It focuses on season-wise team performance, player achievements, match metrics, and batting highlights in an interactive and visual-first format.
-## 📚 Table of Contents
-- [Project Objectives](#-project-objectives)
-- [Dashboard Features](#-dashboard-features)
-- [IPL 2025 Season Highlights](#-ipl-2025-season-highlights)
-- [Dashboard Preview](#-dashboard-preview)
-- [Files Included](#-files-included)
-- [How to Use](#-how-to-use)
-- [Tools & Technologies](#-tools--technologies)
-- [Author](#-author)
-- [License](#-license)
-- [Quote](#-quote)
 
 ## 📌 Project Objectives
 
@@ -41,8 +30,7 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 • Matches: 74 | Teams: 10 | Venues: 14  
 • 6s: 1296 | 4s: 2251 | Centuries: 9 | Half-Centuries: 143  
 
-<a name="dashboard-preview"></a>
-### 🖼️Dashboard Preview
+## 🖼️Dashboard Preview
 
 📸 Screenshot  
 ![IPL Dashboard](./ipl-dashboard-screenshot.png)
@@ -58,8 +46,7 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 • `IPL_Analysis_2008_2025.pdf` – Static PDF of the dashboard  
 • `IPL_Data.zip ` – Dataset used in the dashboard  
 
-<a name="how-to-use"></a>
-### 🛠️ How to Use
+## 🛠️ How to Use
 
 1. Clone or download the repository  
 2. Open `IPL_Analysis_2008_2025.pbit` in Power BI Desktop  
