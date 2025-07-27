@@ -41,15 +41,16 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 • Matches: 74 | Teams: 10 | Venues: 14  
 • 6s: 1296 | 4s: 2251 | Centuries: 9 | Half-Centuries: 143  
 
-## Dashboard Preview
+<a name="dashboard-preview"></a>
+### 🖼️Dashboard Preview
 
 📸 Screenshot  
 ![IPL Dashboard](./ipl-dashboard-screenshot.png)
 
-🎥 Walkthrough Video  
+🎥 📂Walkthrough Video  
 [▶️ Click to Watch](./ipl-dashboard-demo.mp4)
 
-## Files Included
+## 📂Files Included
 
 • `IPL_Analysis_2008_2025.pbit` – Power BI dashboard template  
 • `ipl-dashboard-screenshot.png` – Dashboard image preview  
@@ -57,6 +58,7 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 • `IPL_Analysis_2008_2025.pdf` – Static PDF of the dashboard  
 • `IPL_Data.zip ` – Dataset used in the dashboard  
 
+<a name="how-to-use"></a>
 ### 🛠️ How to Use
 
 1. Clone or download the repository  
