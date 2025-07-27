@@ -74,3 +74,9 @@ Feel free to use, modify, and share with proper credit.
 
 "IPL isn’t just a tournament — it’s 17 years of unforgettable data.  
 This dashboard brings every stat and story to life."
+
+---
+
+⭐ If you liked this project, consider giving it a star!  
+📬 For feedback or collaboration, feel free to reach out via [email](mailto:ankitchaudhary14022003@gmail.com).
+
