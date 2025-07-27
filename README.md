@@ -5,7 +5,7 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 - [Project Objectives](#-project-objectives)
 - [Dashboard Features](#-dashboard-features)
 - [IPL 2025 Season Highlights](#-ipl-2025-season-highlights)
-- [Dashboard Preview](#-dashboard-preview)
+- [Dashboard Preview](#-dashboard-preview-screenshot)
 - [Files Included](#-files-included)
 - [How to Use](#-how-to-use)
 - [Tools & Technologies](#-tools--technologies)
