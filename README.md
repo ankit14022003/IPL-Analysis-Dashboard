@@ -38,6 +38,9 @@ This Power BI dashboard provides a comprehensive statistical analysis of the Ind
 🎥 📂Walkthrough Video  
 [▶️ Click to Watch](https://drive.google.com/file/d/1CqXvdumzWv1DHYEJwVCVwzR3PsrWBCQf/view?usp=sharing))
 
+## 🌐 **Power BI Web Report Link**
+https://app.powerbi.com/view?r=eyJrIjoiNDE2MTRkNjQtMjZmMi00M2QxLTlmOTMtZTU5OGVlOTE3YzU2IiwidCI6IjlmNTJhMTk0LTU5MDMtNGIzOS1hNTM0LTA4NzMwZGIxY2IyYiJ9
+
 ## 📂Files Included
 
 • `IPL_Analysis_2008_2025.pbit` – Power BI dashboard template  
